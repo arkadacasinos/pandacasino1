@@ -22,6 +22,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="bg-casino-bg">
       <head>
+        <meta name="yandex-verification" content="b1454a2ec3788d55" />
         <title>Панда Казино официальный сайт — играть онлайн, зеркало рабочее Panda Casino</title>
         <meta
           name="description"
